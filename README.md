@@ -1,12 +1,8 @@
-<h1 align="center">Hi there! 👋 I'm Letícia Monteiro</h1>
+# Hi there! 👋 I'm Letícia Monteiro
 
-<h3 align="center">
-Computer Science Student • Software Developer • AI & Data Science Enthusiast
-</h3>
+### Computer Science Student • Software Developer • AI & Data Science Enthusiast
 
-<p align="center">
 Building software, exploring Artificial Intelligence and transforming data into solutions.
-</p>
 
 ---
 
@@ -44,7 +40,7 @@ I enjoy solving problems, learning new technologies, and creating projects that 
 ### Data Science & AI
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ### Tools
@@ -59,32 +55,19 @@ I enjoy solving problems, learning new technologies, and creating projects that 
 ## ⭐ Featured Projects
 
 📱 **Digital Bank**
-
 A Flutter application that simulates a digital banking experience.
 
----
+🔐 **[Sistema de Login](https://github.com/ticinaia/Sistema-de-Login)**
+Sistema básico de autenticação desenvolvido em Python, com foco em conceitos de back-end e segurança.
 
-🔐 **Login System**
+🎬 **[CineList](https://github.com/ticinaia/CineList)**
+Aplicação para organizar e gerenciar uma lista de filmes favoritos, desenvolvida em JavaScript.
 
-Simple authentication system developed while studying backend concepts.
-
----
-
-🌐 **Ordem Paranormal Wiki**
-
+🌐 **[Ordem Paranormal Wiki](https://github.com/ticinaia/ordemparanormal.github.io)**
 Responsive fan-made wiki developed with HTML and CSS.
 
----
-
 📊 **Data Science Projects**
-
 Data analysis, visualization and machine learning experiments using Python.
-
----
-
-🤖 **Artificial Intelligence**
-
-Personal projects focused on machine learning and intelligent systems.
 
 ---
 
@@ -111,18 +94,12 @@ Personal projects focused on machine learning and intelligent systems.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ticinaiame&show_icons=true&theme=transparent"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ticinaiame&layout=compact&theme=transparent"/>
-
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ticinaia&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ticinaia&layout=compact&theme=transparent)
 
 ---
 
 ## 🌎 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Letícia_Monteiro-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ticinaia)
-
-📧 leticiamonteiro3107@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ticinaia)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticiamonteiro3107@gmail.com)
