@@ -54,7 +54,7 @@ I enjoy solving problems, learning new technologies, and creating projects that 
 
 ## ⭐ Featured Projects
 
-📱 **Digital Bank**
+📱 **[Digital Bank](https://github.com/ticinaia/BancoFinTench)**
 A Flutter application that simulates a digital banking experience.
 
 🔐 **[Sistema de Login](https://github.com/ticinaia/Sistema-de-Login)**
@@ -92,12 +92,6 @@ Data analysis, visualization and machine learning experiments using Python.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ticinaia&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ticinaia&layout=compact&theme=transparent)
-
----
 
 ## 🌎 Connect with Me
 
